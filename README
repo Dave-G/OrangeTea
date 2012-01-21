@@ -1,0 +1,16 @@
+(Scroll down for latest updates)
+*** Quick Summary ***
+A simple two-program setup to control and transfer files between remote computers.
+
+*** How do I get started? ***
+All you have to do to get started is run the Server program on the machine you want to control.
+Run the Client program from any other machine and type in the IP and port to connect.
+Type /help once you are connected, this will display the full list of commands.
+(You can even have a Server and Client connected together on your own machine.)
+
+*** Contact ***
+I'm open to any feature suggestions/bug reports so feel free to contact me.
+Email: gedarovich@hotmail.com
+
+*** Latest Updates (1/20/12)***
+- First commit
