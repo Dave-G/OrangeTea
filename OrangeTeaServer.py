@@ -2,7 +2,7 @@
 # Created by David Gedarovich
 # http://www.github.com/Dave-G
 # gedarovich@hotmail.com
-# Updated 1/20/12
+# Updated 1/27/12
 from socket import *
 import time
 import os
