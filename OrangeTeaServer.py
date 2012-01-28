@@ -22,7 +22,7 @@ print "Note: clients must be given your IP address and port to connect."
 welcome = raw_input("Enter a welcome message to display to clients: ")
 if (welcome == ''):
 	print "Invalid input. Defaulting to: Welcome to OrangeTea!"
-	welcome = "Welcome to listenServer.py."
+	welcome = "Welcome to OrangeTea!"
 port = raw_input("Enter a port to bind: ")
 # Make sure the input can be converted to an integer
 if (checkInt(port)):
